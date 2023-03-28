@@ -8,5 +8,11 @@
 
 ```
 npm i
-npm rub dev
+npm run dev
+```
+
+### Сбилдить скачанный проект:
+
+```
+npm run build
 ```
